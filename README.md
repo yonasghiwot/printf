@@ -115,4 +115,4 @@ $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
 ### Rotondwa Netshitumbu:(https://github.com/Roanda2020)
 
 ### looking forward to work with you !!!!
-
+### Let us make the most of it and learn as much as we can partner.
